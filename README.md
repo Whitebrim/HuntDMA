@@ -1,7 +1,8 @@
 # Hunt DMA Cheat
 Fully Featured Hunt DMA Cheat With Chams, Fuser ESP, Overlay mode.
 
-
+> [!NOTE]
+Even if you see that last update was ages ago, cheat still works because of dynamic offset search and CryEngine's static architecture.
 
 ## Showcase
 <p align="Left">
@@ -98,7 +99,9 @@ Can't be turned off. Shows you red frame and in big green number how many player
 Now can be controlled only via mouse: if you stick your cursor to the edge of the window, or move to the other screen, menu will close. Menu will open again when you move mouse back. And "app exit" button in the settings.
 
 # Known Issues
-\-
+- Teammates are shown as enemies
+- Chams don't work
+- Dummy's hp in shooting range is incorrect
 
 # Todo
 - [ ] Beetle ESP
