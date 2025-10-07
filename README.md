@@ -2,7 +2,7 @@
 Fully Featured Hunt DMA Cheat With Chams, Fuser ESP, Overlay mode.
 
 > [!NOTE]
-Even if you see that last update was ages ago, cheat still works because of dynamic offset search and CryEngine's static architecture.
+Currently needs update
 
 ## Showcase
 <p align="Left">
